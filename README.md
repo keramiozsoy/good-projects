@@ -46,6 +46,10 @@
 - https://github.com/dapr/go-sdk
 
 
+# Hibernate
+- https://github.com/hibernate/hibernate-orm
+- https://github.com/hibernate/hibernate-search
+
 
 ## Other
 - https://github.com/redis/redis
@@ -77,6 +81,7 @@
 - https://github.com/go-delve/delve
 - https://github.com/knative
 - https://github.com/Shopify/kubeaudit
+
 
 
 
