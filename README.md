@@ -55,6 +55,12 @@
 - https://github.com/spring-projects/spring-boot
 
 
+# Hashicorp
+- https://github.com/hashicorp/vagrant
+- https://github.com/hashicorp/terraform
+- https://github.com/hashicorp/packer
+- https://github.com/hashicorp/consul
+
 
 ## Other
 - https://github.com/redis/redis
@@ -93,6 +99,8 @@
 
 - https://github.com/ansible/ansible
 - https://github.com/openshift
+
+- https://github.com/crossplane/crossplane
 
 
 
