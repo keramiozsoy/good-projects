@@ -91,6 +91,9 @@
 - https://github.com/netty/netty
 - https://github.com/akka/akka
 
+- https://github.com/ansible/ansible
+- https://github.com/openshift
+
 
 
 
