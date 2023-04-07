@@ -24,3 +24,4 @@
 - https://github.com/postgres/postgres
 - https://github.com/projectcalico/calico
 - https://github.com/goharbor/harbor
+- https://github.com/kata-containers/kata-containers
