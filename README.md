@@ -22,3 +22,5 @@
 - https://github.com/open-telemetry
 - https://github.com/kyma-project/kyma
 - https://github.com/postgres/postgres
+- https://github.com/projectcalico/calico
+- https://github.com/goharbor/harbor
