@@ -37,3 +37,5 @@
 - https://github.com/traefik/traefik
 - https://github.com/duffn/dumb-password-rules
 - https://github.com/fyne-io/fyne
+- https://github.com/trufflesuite/truffle
+- https://github.com/gofiber/fiber
