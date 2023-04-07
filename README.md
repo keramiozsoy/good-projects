@@ -76,6 +76,7 @@
 - https://github.com/devcontainers/cli
 - https://github.com/go-delve/delve
 - https://github.com/knative
+- https://github.com/Shopify/kubeaudit
 
 
 
