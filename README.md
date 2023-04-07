@@ -20,4 +20,4 @@
 ## Other
 - https://github.com/redis/redis
 - https://github.com/open-telemetry
-- https://github.com/kyma-project
+- https://github.com/kyma-project/kyma
