@@ -40,6 +40,12 @@
 - https://github.com/spinnaker/spinnaker
 - https://github.com/spinnaker/kork
 
+# Dapr
+- https://github.com/dapr/cli
+- https://github.com/dapr/java-sdk
+- https://github.com/dapr/go-sdk
+
+
 
 ## Other
 - https://github.com/redis/redis
@@ -67,6 +73,7 @@
 - https://github.com/kubeedge/kubeedge
 - https://github.com/linkedin/ambry
 - https://github.com/gatling/gatling
+- https://github.com/devcontainers/cli
 
 
 
