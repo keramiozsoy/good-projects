@@ -25,7 +25,9 @@
 - https://github.com/redis/redis
 - https://github.com/open-telemetry
 - https://github.com/postgres/postgres
-- https://github.com/projectcalico/calico
 - https://github.com/goharbor/harbor
 - https://github.com/kata-containers/kata-containers
 - https://github.com/goreleaser/goreleaser
+- https://github.com/spinnaker/spinnaker
+- https://github.com/projectcalico/calico
+- https://github.com/flannel-io/flannel
