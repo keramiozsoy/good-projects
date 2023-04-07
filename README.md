@@ -31,6 +31,10 @@
 - https://github.com/docker/scan-cli-plugin
 - https://github.com/docker/compose
 
+# Stripe
+- https://github.com/stripe/stripe-go
+- https://github.com/stripe/stripe-cli
+
 
 ## Other
 - https://github.com/redis/redis
@@ -58,5 +62,6 @@
 - https://github.com/oracle/graal
 - https://github.com/kubeedge/kubeedge
 - https://github.com/linkedin/ambry
+
 
 
