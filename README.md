@@ -89,6 +89,7 @@
 - https://github.com/ahmetb/kubectx
 - https://github.com/quarkusio
 - https://github.com/netty/netty
+- https://github.com/akka/akka
 
 
 
