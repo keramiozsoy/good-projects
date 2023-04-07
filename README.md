@@ -21,36 +21,36 @@
 - https://github.com/kyma-project/kyma
 - https://github.com/kyma-project/busola
 
-# Kubernetes
+## Kubernetes
 - https://github.com/kubernetes/kubernetes
 - https://github.com/kubernetes-sigs/prow
 - https://github.com/kubernetes/kubernetes-template-project
 - https://github.com/kubernetes/test-infra
 
-# Docker
+## Docker
 - https://github.com/docker/scan-cli-plugin
 - https://github.com/docker/compose
 
-# Stripe
+## Stripe
 - https://github.com/stripe/stripe-go
 - https://github.com/stripe/stripe-cli
 
-# Spinnaker
+## Spinnaker
 
 - https://github.com/spinnaker/spinnaker
 - https://github.com/spinnaker/kork
 
-# Dapr
+## Dapr
 - https://github.com/dapr/cli
 - https://github.com/dapr/java-sdk
 - https://github.com/dapr/go-sdk
 
 
-# Hibernate
+## Hibernate
 - https://github.com/hibernate/hibernate-orm
 - https://github.com/hibernate/hibernate-search
 
-# Spring 
+## Spring 
 - https://github.com/spring-projects/spring-framework
 - https://github.com/spring-projects/spring-boot
 
