@@ -21,6 +21,17 @@
 - https://github.com/kyma-project/kyma
 - https://github.com/kyma-project/busola
 
+# Kubernetes
+- https://github.com/kubernetes/kubernetes
+- https://github.com/kubernetes-sigs/prow
+- https://github.com/kubernetes/kubernetes-template-project
+- https://github.com/kubernetes/test-infra
+
+# Docker
+- https://github.com/docker/scan-cli-plugin
+- https://github.com/docker/compose
+
+
 ## Other
 - https://github.com/redis/redis
 - https://github.com/open-telemetry
@@ -44,7 +55,4 @@
 - https://github.com/micronaut-projects
 - https://github.com/spf13/cobra
 
-- https://github.com/docker/compose
-- https://github.com/kubernetes/kubernetes
-- https://github.com/kubernetes-sigs/prow
-- https://github.com/kubernetes/kubernetes-template-project
+
