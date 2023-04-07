@@ -47,3 +47,4 @@
 - https://github.com/docker/compose
 - https://github.com/kubernetes/kubernetes
 - https://github.com/kubernetes-sigs/prow
+- https://github.com/kubernetes/kubernetes-template-project
