@@ -40,3 +40,5 @@
 - https://github.com/trufflesuite/truffle
 - https://github.com/gofiber/fiber
 - https://github.com/kumahq/kuma
+- https://github.com/openzipkin/zipkin
+- https://github.com/micronaut-projects/
