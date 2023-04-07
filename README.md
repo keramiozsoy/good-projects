@@ -43,3 +43,7 @@
 - https://github.com/openzipkin/zipkin
 - https://github.com/micronaut-projects
 - https://github.com/spf13/cobra
+
+- https://github.com/docker/compose
+- https://github.com/kubernetes/kubernetes
+- https://github.com/kubernetes-sigs/prow
