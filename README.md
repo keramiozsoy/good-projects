@@ -6,6 +6,11 @@
 - https://github.com/apache/spark
 - https://github.com/apache/jmeter
 - https://github.com/apache/cassandra
+- https://github.com/apache/doris
+- https://github.com/apache/hudi
+- https://github.com/apache/hbase
+- https://github.com/apache/flink
+- https://github.com/apache/hadoop
 
 ## Elastic
 - https://github.com/elastic/kibana
@@ -16,6 +21,9 @@
 - https://github.com/couchbase/couchbase-jvm-clients
 - https://github.com/couchbase/couchnode
 - https://github.com/couchbase/gocb
+
+# ClickHouse
+https://github.com/ClickHouse/ClickHouse
 
 ## Kyma
 - https://github.com/kyma-project/kyma
