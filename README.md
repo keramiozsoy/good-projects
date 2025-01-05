@@ -23,7 +23,7 @@
 - https://github.com/couchbase/gocb
 
 # ClickHouse
-https://github.com/ClickHouse/ClickHouse
+- https://github.com/ClickHouse/ClickHouse
 
 ## Kyma
 - https://github.com/kyma-project/kyma
