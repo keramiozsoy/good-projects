@@ -10,9 +10,20 @@
 - https://github.com/apache/hudi
 - https://github.com/apache/hbase
 - https://github.com/apache/flink
+- https://github.com/apache/iceberg
 - https://github.com/apache/hadoop
 - https://github.com/apache/druid
+- https://github.com/apache/pinot
 - https://kie.apache.org/
+- https://github.com/apache/airflow
+- https://github.com/apache/dubbo
+- https://github.com/apache/ranger
+- https://github.com/apache/nifi
+- https://github.com/apache/knox
+- 
+
+# presto
+- https://github.com/prestodb/presto
 
 # ML
 - https://github.com/tensorflow/tensorflow
