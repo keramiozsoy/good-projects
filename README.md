@@ -39,6 +39,10 @@
 - https://github.com/kubernetes/kubernetes-template-project
 - https://github.com/kubernetes/test-infra
 
+# Edge
+- https://github.com/kubeedge/kubeedge
+
+
 ## Docker
 - https://github.com/docker/scan-cli-plugin
 - https://github.com/docker/compose
@@ -73,11 +77,15 @@
 - https://github.com/hashicorp/packer
 - https://github.com/hashicorp/consul
 
+# Redis
+- https://github.com/redis/redis
+
+# Postgres
+- https://github.com/postgres/postgres
 
 ## Other
-- https://github.com/redis/redis
 - https://github.com/open-telemetry
-- https://github.com/postgres/postgres
+
 - https://github.com/goharbor/harbor
 - https://github.com/kata-containers/kata-containers
 - https://github.com/goreleaser/goreleaser
@@ -97,7 +105,6 @@
 - https://github.com/spf13/cobra
 - https://github.com/micronaut-projects
 - https://github.com/oracle/graal
-- https://github.com/kubeedge/kubeedge
 - https://github.com/linkedin/ambry
 - https://github.com/gatling/gatling
 - https://github.com/devcontainers/cli
