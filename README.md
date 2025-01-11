@@ -31,6 +31,8 @@
 - https://github.com/onnx/onnx
 - https://github.com/scikit-learn/scikit-learn
 - https://github.com/huggingface
+- https://github.com/microsoft/LightGBM
+- https://github.com/dmlc/xgboost
 
 ## Elastic
 - https://github.com/elastic/kibana
