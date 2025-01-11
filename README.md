@@ -13,6 +13,11 @@
 - https://github.com/apache/hadoop
 - https://github.com/apache/druid
 
+# ML
+- https://github.com/tensorflow/tensorflow
+- https://github.com/pytorch/pytorch
+- https://github.com/onnx/onnx
+
 ## Elastic
 - https://github.com/elastic/kibana
 - https://github.com/elastic/elasticsearch
