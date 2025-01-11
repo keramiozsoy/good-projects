@@ -11,6 +11,7 @@
 - https://github.com/apache/hbase
 - https://github.com/apache/flink
 - https://github.com/apache/hadoop
+- https://github.com/apache/druid
 
 ## Elastic
 - https://github.com/elastic/kibana
@@ -24,6 +25,9 @@
 
 # ClickHouse
 - https://github.com/ClickHouse/ClickHouse
+
+# Influx
+- https://github.com/influxdata/influxdb
 
 ## Kyma
 - https://github.com/kyma-project/kyma
