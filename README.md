@@ -12,6 +12,7 @@
 - https://github.com/apache/flink
 - https://github.com/apache/hadoop
 - https://github.com/apache/druid
+- https://kie.apache.org/
 
 # ML
 - https://github.com/tensorflow/tensorflow
