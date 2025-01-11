@@ -29,6 +29,8 @@
 - https://github.com/tensorflow/tensorflow
 - https://github.com/pytorch/pytorch
 - https://github.com/onnx/onnx
+- https://github.com/scikit-learn/scikit-learn
+- https://github.com/huggingface
 
 ## Elastic
 - https://github.com/elastic/kibana
