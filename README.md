@@ -63,6 +63,8 @@
 # Edge
 - https://github.com/kubeedge/kubeedge
 
+# CDC
+- https://github.com/debezium/debezium
 
 ## Docker
 - https://github.com/docker/scan-cli-plugin
