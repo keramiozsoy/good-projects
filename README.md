@@ -34,6 +34,7 @@
 - https://github.com/microsoft/LightGBM
 - https://github.com/dmlc/xgboost
 - https://github.com/keras-team/keras
+- https://github.com/mlflow/mlflow
 
 ## Elastic
 - https://github.com/elastic/kibana
