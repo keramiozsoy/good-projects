@@ -33,6 +33,7 @@
 - https://github.com/huggingface
 - https://github.com/microsoft/LightGBM
 - https://github.com/dmlc/xgboost
+- https://github.com/keras-team/keras
 
 ## Elastic
 - https://github.com/elastic/kibana
