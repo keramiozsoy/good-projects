@@ -35,6 +35,8 @@
 - https://github.com/dmlc/xgboost
 - https://github.com/keras-team/keras
 - https://github.com/mlflow/mlflow
+- https://github.com/streamlit/streamlit
+- https://github.com/kubeflow/kubeflow
 
 ## Elastic
 - https://github.com/elastic/kibana
