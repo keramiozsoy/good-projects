@@ -37,6 +37,7 @@
 - https://github.com/mlflow/mlflow
 - https://github.com/streamlit/streamlit
 - https://github.com/kubeflow/kubeflow
+- https://github.com/conda/conda
 
 ## Elastic
 - https://github.com/elastic/kibana
