@@ -21,6 +21,7 @@
 - https://github.com/apache/nifi
 - https://github.com/apache/knox
 - https://github.com/apache/groovy
+- https://github.com/apache/cxf
 
 # presto
 - https://github.com/prestodb/presto
