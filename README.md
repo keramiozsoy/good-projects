@@ -44,6 +44,9 @@
 - https://github.com/streamlit/streamlit
 - https://github.com/kubeflow/kubeflow
 - https://github.com/conda/conda
+- https://github.com/ollama/ollama
+- https://github.com/langchain-ai/langchain
+- https://github.com/meta-llama/llama
 
 ## Elastic
 - https://github.com/elastic/kibana
