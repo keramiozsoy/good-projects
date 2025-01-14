@@ -22,6 +22,11 @@
 - https://github.com/apache/knox
 - https://github.com/apache/groovy
 - https://github.com/apache/cxf
+- https://github.com/apache/arrow
+- https://github.com/apache/beam
+
+# duckdb
+- https://github.com/duckdb/duckdb
 
 # presto
 - https://github.com/prestodb/presto
