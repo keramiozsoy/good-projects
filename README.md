@@ -25,6 +25,10 @@
 - https://github.com/apache/arrow
 - https://github.com/apache/beam
 
+# Delta
+- https://github.com/delta-io/delta
+  
+
 # duckdb
 - https://github.com/duckdb/duckdb
 
