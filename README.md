@@ -27,7 +27,16 @@
 - https://github.com/apache/samza
 - https://github.com/apache/pulsar
 - https://github.com/apache/poi
+- https://github.com/apache/openoffice
 - https://github.com/apache/ozone
+- https://github.com/apache/parquet-format
+- https://github.com/apache/opennlp
+- https://github.com/apache/openjpa
+- https://github.com/apache/oozie
+- https://github.com/apache/knox
+- https://github.com/apache/karaf
+- https://github.com/apache/jmeter
+- https://github.com/apache/iceberg
 
 # Delta
 - https://github.com/delta-io/delta
