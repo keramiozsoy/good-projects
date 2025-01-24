@@ -24,6 +24,10 @@
 - https://github.com/apache/cxf
 - https://github.com/apache/arrow
 - https://github.com/apache/beam
+- https://github.com/apache/samza
+- https://github.com/apache/pulsar
+- https://github.com/apache/poi
+- https://github.com/apache/ozone
 
 # Delta
 - https://github.com/delta-io/delta
