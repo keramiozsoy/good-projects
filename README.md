@@ -37,6 +37,18 @@
 - https://github.com/apache/karaf
 - https://github.com/apache/jmeter
 - https://github.com/apache/iceberg
+- https://github.com/apache/ignite
+- https://github.com/apache/impala
+- https://github.com/apache/hudi
+- https://github.com/apache/httpd
+- https://github.com/apache/hive
+- https://github.com/apache/hbase
+- https://github.com/apache/freemarker
+- https://github.com/apache/logging-flume
+- https://github.com/apache/drill
+- https://github.com/apache/couchdb
+- https://github.com/apache/ambari
+- https://github.com/apache/activemq
 
 # Delta
 - https://github.com/delta-io/delta
@@ -49,6 +61,7 @@
 - https://github.com/prestodb/presto
 
 # ML
+- https://github.com/deepseek-ai
 - https://github.com/tensorflow/tensorflow
 - https://github.com/pytorch/pytorch
 - https://github.com/onnx/onnx
