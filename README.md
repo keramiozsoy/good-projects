@@ -77,6 +77,7 @@
 - https://github.com/ollama/ollama
 - https://github.com/langchain-ai/langchain
 - https://github.com/meta-llama/llama
+- https://github.com/Mintplex-Labs/anything-llm
 
 ## Elastic
 - https://github.com/elastic/kibana
