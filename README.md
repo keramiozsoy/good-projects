@@ -49,6 +49,7 @@
 - https://github.com/apache/couchdb
 - https://github.com/apache/ambari
 - https://github.com/apache/activemq
+- https://github.com/apache/logging-flume
 
 # Delta
 - https://github.com/delta-io/delta
