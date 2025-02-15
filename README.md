@@ -62,6 +62,7 @@
 - https://github.com/prestodb/presto
 
 # ML
+- https://github.com/xai-org/grok-1
 - https://github.com/deepseek-ai
 - https://github.com/tensorflow/tensorflow
 - https://github.com/pytorch/pytorch
