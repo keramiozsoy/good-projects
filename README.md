@@ -61,7 +61,7 @@
 # presto
 - https://github.com/prestodb/presto
 
-# ML
+# AI - ML
 - https://github.com/xai-org/grok-1
 - https://github.com/deepseek-ai
 - https://github.com/tensorflow/tensorflow
@@ -83,6 +83,7 @@
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/n8n-io/n8n
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
+- https://github.com/qdrant/qdrant
 
 ## Elastic
 - https://github.com/elastic/kibana
