@@ -82,6 +82,7 @@
 - https://github.com/meta-llama/llama
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/n8n-io/n8n
+- https://github.com/n8n-io/self-hosted-ai-starter-kit
 
 ## Elastic
 - https://github.com/elastic/kibana
