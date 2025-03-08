@@ -84,6 +84,7 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
 - https://github.com/qdrant/qdrant
+- https://github.com/SylphAI-Inc/LLM-engineer-handbook
 
 ## Elastic
 - https://github.com/elastic/kibana
