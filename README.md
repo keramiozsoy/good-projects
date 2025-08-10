@@ -159,6 +159,8 @@
 - https://github.com/postgres/postgres
 
 ## Other
+- https://github.com/java-decompiler/jd-gui
+
 - https://github.com/open-telemetry
 
 - https://github.com/goharbor/harbor
